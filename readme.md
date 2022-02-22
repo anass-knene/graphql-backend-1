@@ -1,6 +1,6 @@
-# GitHub Team Workflow
+# GraphQL Apollo server  backend
 
-Instructions [here](https://docs.google.com/document/d/1E-pns8OTVpzwstZY4qteXnqhS7az5rO1qCAxqHsnlgc/edit#heading=h.5a35mz9z55ey)
+Instructions [here](https://www.apollographql.com/docs/apollo-server/ee7fbac9c0ca5b1dd6aef886bb695e63/index-diagram.svg)
 
 ### **Happy Coding!**
 
